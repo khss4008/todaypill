@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176041023175",
+    "project_id": "todaypills-97a49",
+    "storage_bucket": "todaypills-97a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176041023175:android:d807797e5499145a0dd0e2",
+        "android_client_info": {
+          "package_name": "com.todaypills_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176041023175-759r8s18etlqu4j1nfd45iaekct3km5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6f1kX9u9sFzbMLSQIY-_h91HidsL-zJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176041023175-759r8s18etlqu4j1nfd45iaekct3km5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

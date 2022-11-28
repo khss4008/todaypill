@@ -1,0 +1,12 @@
+const SurveyQuestion = new Map();
+SurveyQuestion.set(0, "스트레스 완화");
+SurveyQuestion.set(1, "기억력 증진");
+SurveyQuestion.set(2, "혈액 순환");
+SurveyQuestion.set(3, "에너지 증진");
+SurveyQuestion.set(4, "근육통 완화");
+SurveyQuestion.set(5, "면역 증진");
+SurveyQuestion.set(6, "신경통 완화");
+SurveyQuestion.set(7, "관절 건강");
+SurveyQuestion.set(8, "다이어트");
+SurveyQuestion.set(9, "질 건강");
+export default SurveyQuestion;
